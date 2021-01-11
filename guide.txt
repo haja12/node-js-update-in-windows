@@ -1,3 +1,4 @@
 1. Download the latest Node js file from https://nodejs.org/en/download/
 2. Unzip and open the file, then run install_tools.bat file
 3. Then, Node js will install successfully in your local system.
+4. Then, need to restart the system, then only it will affect.
